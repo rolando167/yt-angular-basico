@@ -1,0 +1,50 @@
+
+version 9
+yt: https://www.youtube.com/watch?v=2d5u-OwEHvg&list=PLm0WEBt1zBgL_foT2KfXH8xFlQ-nQS5Qw&index=4
+
+
+version 12
+yt: https://www.youtube.com/watch?v=bqrQ7b9s8tw&list=PL_WGMLcL4jzVY1y-SutA3N_PCNCAG7Y46&index=2
+-------------
+ https://angular.io/guide/setup-local
+
+Guia Angular
+
+Global: una sola vez
+> npm install -g @angular/cli
+
+Crear
+>ng new portafolio-app
+
+>ng serve
+
+>ng server --port=4000
+-------------
+Una vez compilado
+
+http://localhost:4200/
+
+-------------
+
+- Crear Componente
+
+>ng generate component sidebar
+
+-------------
+
+
+-------------
+
+
+-------------
+https://www.luisan.net/blog/diseno-grafico/20-bancos-de-imagenes-gratis-de-alta-resolucion-para-tu-web
+
+https://pikwizard.com/
+
+https://picsum.photos/images
+
+
+-------------
+
+
+-------------
